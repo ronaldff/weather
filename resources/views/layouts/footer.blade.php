@@ -26,7 +26,6 @@
 						lat =  weatherData.coord.lat,
 						lon =  weatherData.coord.lon,
 						tempmods = weatherData.weather[0].main;
-					console.log(weatherData);
 					$("#city-name").text(`${weatherData.name}, ${weatherData.sys.country}`);
 					$("#temp span").text(weatherData.main.temp);
 
