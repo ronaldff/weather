@@ -246,6 +246,48 @@ footer p{
 ***
 **
 *👌👌👌👌👌👌👌👌👌👌👌👌👌👌
+About page css */
+.information-about{
+  width: 100%;
+  margin: auto;
+  height: auto;
+  border-radius: 1rem;
+  font-family: "Roboto", sans-serif;
+  background-color: gray;
+}
+
+.top-layer-about{
+  width: 100%;
+  height: 100%;
+  background-color: var(--main-bg);
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 1rem;
+}
+
+.top-layer-about p{
+  color: #fff;
+  font-weight: 500;
+  font-size: 1.5rem;
+  padding: 1rem;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+
+.top-layer-about span{
+  color: greenyellow;
+}
+
+.main-header-about{
+  margin-top:2rem;
+}
+
+/* 
+****
+***
+**
+*👌👌👌👌👌👌👌👌👌👌👌👌👌👌
 media query */
 @media (max-width: 768px){
   body{

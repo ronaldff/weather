@@ -53,7 +53,6 @@
                                 <li class="list-group-item"><strong>Longitude :</strong><span class="lon"></span></li>
                                 <li class="list-group-item"><strong>Sunrise :</strong><span class="sunrise"></span></li>
                                 <li class="list-group-item"><strong>Sunset :</strong><span class="sunset"></span></li>
-								<li class="list-group-item"><strong>Latitude :</strong><span class="lat"></span></li>
 								<li class="list-group-item"><strong>Humidity :</strong><span class="humid"></span></li>
 								<li class="list-group-item"><strong>Wind Speed :</strong><span class="wind"></span></li>
 
